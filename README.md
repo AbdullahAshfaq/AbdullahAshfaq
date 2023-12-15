@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A full-stack Data Professional</h3>
-
+<h3 align="center">A Problem-Solver and A Full-Stack Data Professional</h3>
+<br>
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahashfaq" alt="abdullahashfaq" /></a> </p>
 -->
