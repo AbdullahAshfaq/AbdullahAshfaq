@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahashfaq" alt="abdullahashfaq" /></a> </p>
 -->
 
-- 🔭 I’m currently **getting Masters in Data Science From UC San Diego**
+- 🔭 I’m currently pursuing **Masters in Data Science From UC San Diego**
 
 - 🌱 I’m currently learning **LLM, NLP, Causal Analysis**
 
