@@ -16,9 +16,9 @@
 - 📫 How to reach me **abdullahashfaq11@gmail.com**, **aashfaq@ucsd.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/127mQkxdmXMaf87n3oArp6zEnn_k47Xi0/view?usp=sharing)
-
+<!---
 - ⚡ Fun fact **I didn't know about coding before university**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullahashfaq11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahashfaq11/" height="30" width="40" /></a>
